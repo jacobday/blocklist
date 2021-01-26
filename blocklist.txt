@@ -1,0 +1,3 @@
+(\.|^)oann\.com$
+(\.|^)breitbart\.com$
+(\.|^)dailycaller\.com$
