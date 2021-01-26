@@ -138,4 +138,13 @@
 0.0.0.0 www.nationalreview.com
 0.0.0.0 donaldjtrump.com
 0.0.0.0 www.donaldjtrump.com
-0.0.0.0 (\.|^)winred\.com$
+0.0.0.0 secure.donaldjtrump.com
+0.0.0.0 www.secure.donaldjtrump.com
+0.0.0.0 thedonald.win
+0.0.0.0 www.thedonald.win
+0.0.0.0 patriots.win
+0.0.0.0 www.patriots.win
+0.0.0.0 media.patriots.win
+0.0.0.0 www.media.patriots.win
+0.0.0.0 america.win
+0.0.0.0 www.america.win
